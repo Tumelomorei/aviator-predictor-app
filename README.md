@@ -27,7 +27,8 @@
 ## Installation
 
 1. **Download the APK**: [Aviator Predictor APK Download](https://aviatorpredictor.org/)
-2. **Install on PC**: [Download Aviator Predictor for PC](https://aviatorpredictor.org/)
+2.  **Install on iOS**: [Download Aviator Predictor for iOS](https://aviatorpredictor.org/)
+3. **Install on PC**: [Download Aviator Predictor for PC](https://aviatorpredictor.org/)
 
 ## Getting Started
 
